@@ -74,6 +74,7 @@ ul{
     padding: 0;
     overflow: hidden;
     padding-right: 200px;
+    color: #cccccc;
 }
 
 li {
@@ -287,7 +288,7 @@ button:hover{
 
     nav ul{
         width: 100%;
-        color: white;
+        color:#ccccccc;
         margin-left: 200px;   
     }
     
@@ -330,7 +331,7 @@ button:hover{
 
     nav ul{
         width: 100%;
-        color: white;
+        color: #cccccc;
         margin-left: 200px;   
     }
 
@@ -373,7 +374,7 @@ button:hover{
 
     nav ul{
         width: 100%;
-        color: white;
+        color: #ccccccc;
         margin-left: 10%;
         font-size: 14px;
        
